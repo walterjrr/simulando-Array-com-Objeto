@@ -5,8 +5,9 @@ Object.defineProperty(quasearray, 'toString',{
   enumerable: false
 })
 
-console.log(quasearray[0])
 
+console.log(quasearray[0])
 
 const meuArray = ['Rafael', 'Ana', 'Bia']
 console.log(quasearray.toString(), meuArray)
+
